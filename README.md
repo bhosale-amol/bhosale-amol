@@ -1,36 +1,21 @@
-👋 Hi, I’m Amol Bhosale
-💻 Java Backend Developer with 1+ Year Experience
-
-🚀 I have 1 year of professional experience at Skillogic Solutions Pvt Ltd as a Java Developer, working on backend development using Java and Spring Boot.
-
-🔧 Tech Stack:
-- Java, Spring Boot, Hibernate
-- MySQL, SQL
-- REST APIs, Microservices (Basics)
-- Git, GitHub
-
-📦 Projects:
-- 🤖 Jarvis AI Assistant
-AI-based virtual assistant that can perform tasks like answering queries, automation, and basic command execution
-
-- 🛒 E-commerce Application
-Built using Spring Boot and MySQL with full CRUD operations
-
-- 📚 Ebook Website
-Developed a complete backend system with user and content management
-
-📈 Currently improving my skills in backend development, system design, and scalable applications.
-
-🎯 Looking for opportunities as a Java Developer / Backend Engineer.
-
-📫 Reach me at: amolb7454@gmail.com
-
-🌐 Socials:
-LinkedIn [Mastodon](https://mastodon.social/@Amol Bhosale) email
-
-💻 Tech Stack:
-HTML5 Java CSS3 C Oracle Vercel AWS Apache Jenkins Apache Tomcat Hibernate MySQL MongoDB Canva Git GitHub GitLab Swagger Postman Portfolio JavaFX JWT Quarkus Spring Thymeleaf
+# 💫 About Me:
+👋 Hi, I'm Amol Bhosale  <br>💻 Java Backend Developer with 1+ Year Experience  <br><br>🚀 I have 1 year of professional experience at Skillogic Solutions Pvt Ltd as a Java Developer, working on backend development using Java and Spring Boot.  <br><br>🔧 Tech Stack:<br>- Java, Spring Boot, Hibernate  <br>- MySQL, SQL  <br>- REST APIs, Microservices (Basics)  <br>- Git, GitHub  <br><br>📦 Projects:<br>- 🤖 Jarvis AI Assistant  <br>  AI-based virtual assistant that can perform tasks like answering queries, automation, and basic command execution  <br><br>- 🛒 E-commerce Application  <br>  Built using Spring Boot and MySQL with full CRUD operations  <br><br>- 📚 Ebook Website  <br>  Developed a complete backend system with user and content management  <br><br>📈 Currently improving my skills in backend development, system design, and scalable applications.  <br><br>🎯 Looking for opportunities as a Java Developer / Backend Engineer.  <br><br>📫 Reach me at: amolb7454@gmail.com
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amol-bhosale1) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Amol Bhosale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amolb7454@gmail.com) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhosale-amol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhosale-amol&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhosale-amol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhosale-amol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=bhosale-amol&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
